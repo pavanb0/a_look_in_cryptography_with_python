@@ -1,0 +1,5 @@
+now you can encrypt text file
+give path of file in format of (c:\user\file)
+dont add txt extension
+
+
